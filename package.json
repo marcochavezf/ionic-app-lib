@@ -58,7 +58,7 @@
     "prompt": "0.2.12",
     "proxy-middleware": "0.7.0",
     "q": "1.0.1",
-    "request": "2.51.0",
+    "request": "2.88.2",
     "request-progress": "0.3.1",
     "semver": "4.2.0",
     "serve-static": "1.7.1",
