@@ -70,7 +70,7 @@
   },
   "devDependencies": {
     "coveralls": "^2.11.9",
-    "eslint": "^3.0.1",
+    "eslint": "^7.10.0",
     "istanbul": "^0.4.4",
     "jasmine-node": "1.14.5",
     "rewire": "2.5.1"
